@@ -6,7 +6,6 @@
 - 🔭 &nbsp; I’m currently working on [Sia](https://play.google.com/store/apps/details?id=com.siaworld.app)
 - 🤔 &nbsp; Exploring new mobile technologies.
 - 🎓 &nbsp; Studied Computer Science and pure Mathematics.
-- 💼 &nbsp; Mobile Application developer.
 - 💬 &nbsp; Ask me about Android & iOS
 - 📫 &nbsp; Reach me azharragab9@gmail.com
 - 📄 &nbsp; Know about my experiences https://www.linkedin.com/in/azhar-ragab/
